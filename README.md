@@ -22,8 +22,8 @@ https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-ca
 ## 4) Results
 **_Comparing the maps we can notice the majority of the restaurants grouped on main streets and on the south of the city, although some of the welthiest neighborhoods are up to the north. Also, the areas with a dense population don't reflect on the number of restaurants._**
 
-5) Discussion
+## 5) Discussion
 **_When I first decided to create this study I was expecting to find clusters of restaurants in certain regions and the final result didn't meet that expectation._**
 
-6) Conclusion
+## 6) Conclusion
 **_This report may be helpful for someone planning on opening a restaurant in Toronto, by comparing the current offers and neighborhoods profiles, however it may not cover all variables such as access to public transportation or even the restaurants profiles, so it shall not be used as a single decidion making tool._**.
